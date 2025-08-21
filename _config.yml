@@ -29,18 +29,18 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yufeng.xia@outlook.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=keg_M90AAAAJ&hl=zh-CN&oi=sra"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : 
+  researchgate     : "https://www.researchgate.net/profile/Yufeng-Xia?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"
   scopus           : # URL
 
   # Repositories and software development
