@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yufeng Xia, Tsinghua Universtiy"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# A [quantitative communication researcher](https://www.notion.so/Research-254f3e63a70981ccb84cd424d914124c?pvs=21) dedicated to [understanding the connection](https://www.notion.so/Teaching-254f3e63a70981b89406e1ca1bad64f7?pvs=21) between humans and society.
+*Trained in communication, political science, and psychology, I apply quantitative social science to explore media's effects on the human mind, while using qualitative approaches, such as journalistic writing, to deepen our understanding of the connection between people and society.*
 
-Trained in communication, political science, and psychology, I apply quantitative social science to explore media's effects on the human mind, while using qualitative approaches, such as journalistic writing, to deepen our understanding of the connection between people and society.
+**PhD in Communication, Tsinghua University**, Beijing, China
 
 My personal website is directed to:
 ======
