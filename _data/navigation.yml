@@ -9,19 +9,13 @@
 
 main:
   - title: "Home"
-    url: /portfolio/
+    url: "https://yufengxia.notion.site/"
 
   - title: "Research"
-    url: /publications/
+    url: "https://yufengxia.notion.site/research"
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Home Page"
-    url: /portfolio/
-
-  - title: "CV"
-    url: /cv/
+    url: "https://yufengxia.notion.site/teaching"    
     
   # - title: "CV"
   #   url: /cv-json/
