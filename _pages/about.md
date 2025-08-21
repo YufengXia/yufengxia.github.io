@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Yufeng Xia, Tsinghua Universtiy"
+title: "Yufeng Xia 夏煜峰"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-*Trained in communication, political science, and psychology, I apply quantitative social science to explore media's effects on the human mind, while using qualitative approaches, such as journalistic writing, to deepen our understanding of the connection between people and society.*
-
 **PhD in Communication, Tsinghua University**, Beijing, China
+
+*Trained in communication, political science, and psychology, I apply quantitative social science to explore media's effects on the human mind, while using qualitative approaches, such as journalistic writing, to deepen our understanding of the connection between people and society.*
 
 My personal website is directed to:
 ======
