@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yufeng Xia 夏煜峰"
+title: "Yufeng Xia"
 author_profile: true
 redirect_from: 
   - /about/
