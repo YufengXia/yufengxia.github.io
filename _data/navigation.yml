@@ -17,6 +17,9 @@ main:
   - title: "Teaching"
     url: "https://yufengxia.notion.site/teaching"    
     
+  - title: "CV"
+    url: "https://yufengxia.notion.site/cv"  
+
   # - title: "CV"
   #   url: /cv-json/
 
